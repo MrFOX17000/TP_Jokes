@@ -17,3 +17,5 @@ Les valeurs qui nous intéressent dans l'API sont "data.setup" pour la blague et
 Le dossier src contient l'index HTML, le script JS et le style CSS, et le dossier static contient les images utiles à la réalisation du site.
 
 ©Mathias  
+
+![alt text]()
