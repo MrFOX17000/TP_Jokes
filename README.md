@@ -12,11 +12,4 @@ Blague | Réponse | Like | Supprimer
 
 Les valeurs qui nous intéressent dans l'API sont "data.setup" pour la blague et "data.delivery" pour la réponse.
 
-`7MMM.     ,MMF'           mm    `7MM          db                   
-  MMMb    dPMM             MM      MM                               
-  M YM   ,M MM   ,6"Yb.  mmMMmm    MMpMMMb.  `7MM   ,6"Yb.  ,pP"Ybd 
-  M  Mb  M' MM  8)   MM    MM      MM    MM    MM  8)   MM  8I   `" 
-  M  YM.P'  MM   ,pm9MM    MM      MM    MM    MM   ,pm9MM  `YMMMa. 
-  M  `YM'   MM  8M   MM    MM      MM    MM    MM  8M   MM  L.   I8 
-.JML. `'  .JMML.`Moo9^Yo.  `Mbmo .JMML  JMML..JMML.`Moo9^Yo.M9mmmP' 
-                                                                    
+©Mathias  
