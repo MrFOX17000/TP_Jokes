@@ -12,4 +12,8 @@ Blague | Réponse | Like | Supprimer
 
 Les valeurs qui nous intéressent dans l'API sont "data.setup" pour la blague et "data.delivery" pour la réponse.
 
+## Répartition
+
+Le dossier src contient l'index HTML, le script JS et le style CSS, et le dossier static contient les images utiles à la réalisation du site.
+
 ©Mathias  
