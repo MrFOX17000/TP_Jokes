@@ -18,4 +18,4 @@ Le dossier src contient l'index HTML, le script JS et le style CSS, et le dossie
 
 ©Mathias  
 
-![alt text]()
+![alt text](https://github.com/MrFOX17000/TP_Jokes/blob/main/static/renard.png)
